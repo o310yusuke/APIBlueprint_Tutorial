@@ -100,5 +100,7 @@ FORMAT: 1A
     ```
 
 ### 削除 [DELETE]
-
++ Parameters
+    + question_id (number) - 質問のIDで整数のみ。
+    
 + Response 204
